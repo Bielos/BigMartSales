@@ -1,9 +1,8 @@
-# BigMartSales
-
+# BigMartSales 
 
 Retail is one of the industries that can also take advantage of data analysis to optimize their income among many other processes such as customer service, inventory management, customized offerings and even space allocation.
 
-This notebook presents the analysis of the <a href="https://www.analyticsvidhya.com/">analyticsvidhya</a> dataset containing the sales of different products in 10 outlets in different cities of the One Stop Shopping center and Free Marketplace BigMart. More  info about BigMart <a href="http://www.bigmart.com/about-us.html">here</a>.
+This notebook presents the analysis of the <a href="https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/">analyticsvidhya</a> dataset containing the sales of different products in 10 outlets in different cities of the One Stop Shopping center and Free Marketplace BigMart. More  info about BigMart <a href="http://www.bigmart.com/about-us.html">here</a>.
  
 **Problem Statement**
 
